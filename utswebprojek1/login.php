@@ -1,3 +1,4 @@
+<!-- login.php -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,7 +12,7 @@
         <?php include('includes/navigation.php'); ?>
     </header>
     <form action="login_process.php" method="post">
-        <h1>Selamat Datang di Perusahaan ABC</h1>
+        <h1>Selamat Datang di PT INTI</h1>
         <p>Silakan login untuk mengakses menu utama.</p>
         <label for="username">Username:</label>
         <input type="text" id="username" name="username" required>

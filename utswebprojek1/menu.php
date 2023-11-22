@@ -12,7 +12,7 @@
         <div class="navigation">
             <div class="logo">
                 <img src="https://i.pinimg.com/564x/2e/d9/5f/2ed95f22ef8bd0febb25e6338fbafe39.jpg" alt="PT INTI Logo">
-                <span>Perusahaan ABC</span>
+                <span>Perusahaan PT INTI</span>
             </div>
             <nav>
                 <ul>
