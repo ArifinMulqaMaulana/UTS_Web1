@@ -11,7 +11,7 @@
     <header>
         <?php include('includes/navigation.php'); ?>
     </header>
-    <h1 class="centered-heading">Informasi Perusahaan ABC</h1>
+    <h1 class="centered-heading">Informasi PT INTI</h1>
     <section>
     <h2>Informasi Penting tentang PT Inti</h2>
         <p>PT Inti adalah perusahaan terkemuka di industri telekomunikasi Indonesia. Kami berfokus pada penyediaan solusi telekomunikasi yang inovatif dan berkualitas tinggi.</p>
